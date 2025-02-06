@@ -1,0 +1,8 @@
+name: longest_word_search
+description: A simple Dart project
+version: 1.0.0
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dev_dependencies:
+  test: ^1.19.0
