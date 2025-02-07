@@ -12,4 +12,4 @@ Follow the instructions at [Dart Official Website](https://dart.dev/get-dart) to
 Use the `cd` command to move into the directory where the script is located.  
 cd /path/to/your/project
 
-## 4. Typing dart longest_word_search.dart for Running the Code
+## 4. Typing dart longest_word_search.dart on Terminal or Command Line for Running the Code
